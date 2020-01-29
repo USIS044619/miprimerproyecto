@@ -28,10 +28,6 @@ namespace miprimerproyecto
             sbyte num2 = sbyte.Parse(txtnum1.Text);
 
             lblrespuesta.Text = "respuesta : " + (num1 + num2);
-        }
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
           
         }
     }
